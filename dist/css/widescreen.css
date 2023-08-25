@@ -1,0 +1,24 @@
+header .container h1 {
+    font-size: 3rem;
+}
+
+header .container p {
+    font-size: 1.3rem;
+}
+
+.section-1 .container .cards .card {
+    width: 25%;
+    flex-direction: row;
+}
+
+
+.section-1 .container .cards .card .card-text p {
+    text-align: justify;
+}
+
+
+.section-3 .container .profile {
+    width: 180px;
+    height: 180px;
+  }
+  
